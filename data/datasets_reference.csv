@@ -1,0 +1,6 @@
+name,url
+CVD Disease Mortality,data/cardiovascular-disease-death-rates.csv
+Daily Smoking Prevalence,data/daily-smoking-prevalence-bounds.csv
+Share of Adults Defined as Obese,data/share-of-adults-defined-as-obese.csv
+GDP Per Capita,data/gdp-per-capita-worldbank.csv
+Healthcare Expenditure /GDP,data/total-healthcare-expenditure-as-share-of-national-gdp-by-country.csv
